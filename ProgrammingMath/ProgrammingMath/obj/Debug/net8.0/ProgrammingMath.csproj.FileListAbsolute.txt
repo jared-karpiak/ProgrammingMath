@@ -1,0 +1,14 @@
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\bin\Debug\net8.0\ProgrammingMath.exe
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\bin\Debug\net8.0\ProgrammingMath.deps.json
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\bin\Debug\net8.0\ProgrammingMath.runtimeconfig.json
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\bin\Debug\net8.0\ProgrammingMath.dll
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\bin\Debug\net8.0\ProgrammingMath.pdb
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.AssemblyInfoInputs.cache
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.AssemblyInfo.cs
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.csproj.CoreCompileInputs.cache
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.dll
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\refint\ProgrammingMath.dll
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.pdb
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ProgrammingMath.genruntimeconfig.cache
+C:\Users\JKARPIAK\source\repos\ProgrammingMath\ProgrammingMath\obj\Debug\net8.0\ref\ProgrammingMath.dll
